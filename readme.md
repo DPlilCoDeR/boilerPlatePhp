@@ -23,4 +23,5 @@ npm install
 gulp
 ```
 
-If everything went good, the test
+If everything went good, after running ```gulp``` the test suite provided should run two tests in green and keep the
+execution alive watching for change in files.
